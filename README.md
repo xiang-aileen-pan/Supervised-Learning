@@ -1,5 +1,6 @@
 # Supervised-Learning
-Banking Customers Churn Prediction
+Bank Customers Churn Prediction
+Data source: Kaggle
 •	Analyzed 10k+ customers’ data to predict their churn probability
 •	Preprocessed data by data cleaning and transformation, data visualization, and feature encoding
 •	Trained supervised model with Logistic Regression, Random Forest, and K-Nearest Neighbors
